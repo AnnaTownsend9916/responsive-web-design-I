@@ -207,3 +207,10 @@ footer {
   width: 40%;
 }
 
+@media (max-width: 800px,){
+    .container{
+        width: 880px;
+  /* TB LR */
+  margin: 0 auto;
+    }
+}
